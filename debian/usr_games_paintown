@@ -1,0 +1,3 @@
+#!/bin/sh
+paintown-bin -d /usr/share/paintown/data $@
+
